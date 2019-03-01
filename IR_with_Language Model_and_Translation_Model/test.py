@@ -1,0 +1,3 @@
+from readCorpus import loadAndSaveNeededData
+
+loadAndSaveNeededData()
